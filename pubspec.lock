@@ -44,10 +44,9 @@ packages:
   extended_text_library:
     dependency: "direct main"
     description:
-      name: extended_text_library
-      sha256: "6d06b0ac53a09989e9864549f133c19c676d1456c5ee9470e2483f3cb1900f6e"
-      url: "https://pub.dev"
-    source: hosted
+      path: "../vb_extended_text_libaray"
+      relative: true
+    source: path
     version: "10.0.0"
   fake_async:
     dependency: transitive
