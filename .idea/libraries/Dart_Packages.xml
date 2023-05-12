@@ -47,7 +47,7 @@
         <entry key="extended_text_library">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../vb_extended_text_libaray/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/vb_extended_text_libaray-eef3c17e782220a79bb40dfee10d9299a166b0a7//lib" />
             </list>
           </value>
         </entry>
@@ -257,6 +257,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/git/vb_extended_text_libaray-eef3c17e782220a79bb40dfee10d9299a166b0a7//lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/async-2.11.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/characters-1.3.0/lib" />
@@ -292,7 +293,6 @@
       <root url="file://$PROJECT_DIR$/../../../../flutter/packages/flutter/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutter/packages/flutter_test/lib" />
       <root url="file://$PROJECT_DIR$/../../../../flutter/packages/flutter_web_plugins/lib" />
-      <root url="file://$PROJECT_DIR$/../vb_extended_text_libaray/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
