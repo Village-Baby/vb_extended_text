@@ -44,9 +44,11 @@ packages:
   extended_text_library:
     dependency: "direct main"
     description:
-      path: "../vb_extended_text_libaray"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: eef3c17e782220a79bb40dfee10d9299a166b0a7
+      url: "https://github.com/Village-Baby/vb_extended_text_libaray.git"
+    source: git
     version: "10.0.0"
   fake_async:
     dependency: transitive
