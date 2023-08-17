@@ -869,6 +869,10 @@ class ExtendedTextSelectionState extends State<ExtendedTextSelection>
   void insertContent(KeyboardInsertedContent content) {
     // TODO: implement insertContent
   }
+
+  @override
+  // TODO: implement liveTextInputEnabled
+  bool get liveTextInputEnabled => false;
 }
 
 class _CopySelectionAction extends ContextAction<CopySelectionTextIntent> {
